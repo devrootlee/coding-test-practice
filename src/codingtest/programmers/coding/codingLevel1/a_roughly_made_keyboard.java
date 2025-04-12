@@ -37,8 +37,6 @@ public class a_roughly_made_keyboard {
                     answer[i]=-1;
                     break;
                 }
-
-
             }
         }
 

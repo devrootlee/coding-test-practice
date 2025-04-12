@@ -79,6 +79,6 @@
 - 신고 결과 받기 : [solution](../../../src/codingtest/programmers/coding/codingLevel1/get_report_results.java)
 - [PCCP 기출문제] 1번/붕대 감기 : [solution](../../../src/codingtest/programmers/coding/codingLevel1/bandage.java)
 - 유연근무제 : [solution](../../../src/codingtest/programmers/coding/codingLevel1/flexible_workingSyetem.java)
-- [PCCP 기출문제] 1번/동영상 재생기: [video_player](../../../src/codingtest/programmers/coding/codingLevel1/video_player.java)
-- 택배 상자 꺼내기 : [take_out_the_delivery_box](../../../src/codingtest/programmers/coding/codingLevel1/take_out_the_delivery_box.java)
-- 가장 많이 받은 선물 : 
+- [PCCP 기출문제] 1번/동영상 재생기: [solution](../../../src/codingtest/programmers/coding/codingLevel1/video_player.java)
+- 택배 상자 꺼내기 : [solution](../../../src/codingtest/programmers/coding/codingLevel1/take_out_the_delivery_box.java)
+- 가장 많이 받은 선물 : [solution](../../../src/codingtest/programmers/coding/codingLevel1/most_received_gift.java)
