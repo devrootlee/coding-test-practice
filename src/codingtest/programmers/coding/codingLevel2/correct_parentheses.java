@@ -5,24 +5,23 @@ public class correct_parentheses {
     static boolean solution(String s) {
         boolean answer = true;
 
-        int sLength = s.length();
-        while (true) {
-            s = s.replaceAll("\\(\\)","");
-            int compareLength = s.length();
+        int subAnswer = 0;
+        for (int i = 0; i < s.length(); i++) {
+            if (s.charAt(i) == '(') {
+                subAnswer++;
+            } else {
+                subAnswer--;
+            }
 
-            //replace 한 길이가 더 작으면
-            if (sLength > compareLength) {
-                sLength = s.length();
-            } else { //길이가 같으면
+            if (subAnswer < 0) {
                 break;
             }
         }
 
-        if (s.length() > 0) {
+        if (subAnswer != 0) {
             answer = false;
         }
 
-        System.out.println(answer);
         return answer;
     }
 
