@@ -11,3 +11,4 @@
 - 카펫 : [solution](../../../src/codingtest/programmers/coding/codingLevel2/carpet.java)
 - 최대값과 최솟값 : [solution](../../../src/codingtest/programmers/coding/codingLevel2/maximum_and_minimum_values.java)
 - 올바른 괄호 : [solution](../../../src/codingtest/programmers/coding/codingLevel2/correct_parentheses.java)
+- 최솟값 만들기 : [solution](../../../src/codingtest/programmers/coding/codingLevel2/create_minimum.java)
