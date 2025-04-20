@@ -14,3 +14,4 @@
 - 최솟값 만들기 : [solution](../../../src/codingtest/programmers/coding/codingLevel2/create_minimum.java)
 - JadenCase 문자열 만들기 : [solution](../../../src/codingtest/programmers/coding/codingLevel2/creating_a_JadenCase_string.java)
 - 이진 변환 반복하기 : [solution](../../../src/codingtest/programmers/coding/codingLevel2/repeat_binary_conversion.java)
+- 숫자의 표현 : [solution](../../../src/codingtest/programmers/coding/codingLevel2/expression_of_numbers.java)
