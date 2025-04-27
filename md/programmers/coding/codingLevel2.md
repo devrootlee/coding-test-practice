@@ -18,3 +18,4 @@
 - 다음 큰 숫자 : [solution](../../../src/codingtest/programmers/coding/codingLevel2/next_big_number.java)
 - 파보나치 수 : [solution](../../../src/codingtest/programmers/coding/codingLevel2/fibonacci_numbers.java)
 - 짝지어 제거하기 : [solution](../../../src/codingtest/programmers/coding/codingLevel2/remove_in_pairs.java)
+- 카펫 : [solution](../../../src/codingtest/programmers/coding/codingLevel2/carpet.java)
