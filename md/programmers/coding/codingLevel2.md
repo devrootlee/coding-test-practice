@@ -20,3 +20,4 @@
 - 짝지어 제거하기 : [solution](../../../src/codingtest/programmers/coding/codingLevel2/remove_in_pairs.java)
 - 카펫 : [solution](../../../src/codingtest/programmers/coding/codingLevel2/carpet.java)
 - 점프와 순간 이동 : [solution](../../../src/codingtest/programmers/coding/codingLevel2/jump_and_teleport.java)
+- 구멍 보트 : [solution](../../../src/codingtest/programmers/coding/codingLevel2/hole_boat.java)
