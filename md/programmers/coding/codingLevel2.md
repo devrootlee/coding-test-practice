@@ -19,3 +19,4 @@
 - 파보나치 수 : [solution](../../../src/codingtest/programmers/coding/codingLevel2/fibonacci_numbers.java)
 - 짝지어 제거하기 : [solution](../../../src/codingtest/programmers/coding/codingLevel2/remove_in_pairs.java)
 - 카펫 : [solution](../../../src/codingtest/programmers/coding/codingLevel2/carpet.java)
+- 점프와 순간 이동 : [solution](../../../src/codingtest/programmers/coding/codingLevel2/jump_and_teleport.java)
