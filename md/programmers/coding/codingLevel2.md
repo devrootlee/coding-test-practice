@@ -23,3 +23,4 @@
 - 구멍 보트 : [solution](../../../src/codingtest/programmers/coding/codingLevel2/hole_boat.java)
 - 귤 고르기 : [solution](../../../src/codingtest/programmers/coding/codingLevel2/picking_tangerines.java)
 - 멀리 뛰기 : [solution](../../../src/codingtest/programmers/coding/codingLevel2/long_jump.java)
+- n개의 최소공배수 : [solution](../../../src/codingtest/programmers/coding/codingLevel2/least_common_multiple_of_n.java)
