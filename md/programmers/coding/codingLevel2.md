@@ -25,3 +25,4 @@
 - 멀리 뛰기 : [solution](../../../src/codingtest/programmers/coding/codingLevel2/long_jump.java)
 - n개의 최소공배수 : [solution](../../../src/codingtest/programmers/coding/codingLevel2/least_common_multiple_of_n.java)
 - 영어 끝말잇기 : [solution](../../../src/codingtest/programmers/coding/codingLevel2/english_word_chain.java)
+- 예상 대진표 : [solution](../../../src/codingtest/programmers/coding/codingLevel2/expected_bracket.java)
