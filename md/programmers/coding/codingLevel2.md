@@ -26,3 +26,5 @@
 - n개의 최소공배수 : [solution](../../../src/codingtest/programmers/coding/codingLevel2/least_common_multiple_of_n.java)
 - 영어 끝말잇기 : [solution](../../../src/codingtest/programmers/coding/codingLevel2/english_word_chain.java)
 - 예상 대진표 : [solution](../../../src/codingtest/programmers/coding/codingLevel2/expected_bracket.java)
+- 연속 부분 수열 합의 개수 : [solution](../../../src/codingtest/programmers/coding/codingLevel2/number_of_sums_of_consecutive_subsequences.java)
+- 할인 행사 : [solution](../../../src/codingtest/programmers/coding/codingLevel2/discount_event.java)
