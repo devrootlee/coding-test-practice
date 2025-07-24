@@ -28,3 +28,5 @@
 - 예상 대진표 : [solution](../../../src/codingtest/programmers/coding/codingLevel2/expected_bracket.java)
 - 연속 부분 수열 합의 개수 : [solution](../../../src/codingtest/programmers/coding/codingLevel2/number_of_sums_of_consecutive_subsequences.java)
 - 할인 행사 : [solution](../../../src/codingtest/programmers/coding/codingLevel2/discount_event.java)
+- 괄호 회전하기 : [solution](../../../src/codingtest/programmers/coding/codingLevel2/rotate_parentheses.java)
+- 타켓 넘버 :[solution](../../../src/codingtest/programmers/coding/codingLevel2/target_number.java)
