@@ -202,3 +202,4 @@
 - 문자열 밀기 : [solution](../../../src/codingtest/programmers/coding/codingLevel0/string_push.java)
 - 종이 자르기 : [solution](../../../src/codingtest/programmers/coding/codingLevel0/paper_cutting.java)
 - 연속된 수의 합 : [solution](../../../src/codingtest/programmers/coding/codingLevel0/sum_of_consecutive_numbers.java)
+- [PCCE 기출문제] 3번 / 수 나누기 : [solution](../../../src/codingtest/programmers/coding/codingLevel0/number_division.java)
