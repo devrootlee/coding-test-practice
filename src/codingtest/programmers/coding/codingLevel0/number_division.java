@@ -1,7 +1,10 @@
 package codingtest.programmers.coding.codingLevel0;
 
 import java.util.Scanner;
-
+/**
+ * TITLE : [PCCE 기출문제] 3번 / 수 나누기
+ * LEVEL : 0
+ */
 public class number_division {
 
     public static void main(String[] args) {

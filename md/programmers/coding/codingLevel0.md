@@ -203,3 +203,4 @@
 - 종이 자르기 : [solution](../../../src/codingtest/programmers/coding/codingLevel0/paper_cutting.java)
 - 연속된 수의 합 : [solution](../../../src/codingtest/programmers/coding/codingLevel0/sum_of_consecutive_numbers.java)
 - [PCCE 기출문제] 3번 / 수 나누기 : [solution](../../../src/codingtest/programmers/coding/codingLevel0/number_division.java)
+- [PCCE 기출문제] 4번 / 병과분류 : [solution](../../../src/codingtest/programmers/coding/codingLevel0/classification_of_military_branches.java)
